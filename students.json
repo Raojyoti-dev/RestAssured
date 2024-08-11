@@ -1,0 +1,143 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "john",
+      "location": "india",
+      "phone": "123456789",
+      "courses": [
+        "java",
+        "selenium"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "jack",
+      "location": "US",
+      "phone": "156789",
+      "courses": [
+        "C#",
+        "Ruby"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "kim",
+      "location": "italy",
+      "phone": "156789",
+      "courses": [
+        "C",
+        "RestApi"
+      ]
+    },
+    {
+      "id": "20b8"
+    },
+    {
+      "id": "f2e3"
+    },
+    {
+      "id": "64e1"
+    },
+    {
+      "id": "100",
+      "courses": [
+        "a",
+        "b"
+      ],
+      "phone": "12345",
+      "name": "Harsh",
+      "location": "USA"
+    },
+    {
+      "id": "fb34",
+      "courses": [
+        "java",
+        "javascript"
+      ],
+      "phone": "2345",
+      "name": "jyoti",
+      "location": "india"
+    },
+    {
+      "id": "100",
+      "courses": [
+        "a",
+        "b"
+      ],
+      "phone": "12345",
+      "name": "Harsh",
+      "location": "USA"
+    },
+    {
+      "id": "d8ba",
+      "courses": [
+        "HTML",
+        "CSS"
+      ],
+      "phone": "222",
+      "name": "Jyoti",
+      "location": "BBSR"
+    },
+    {
+      "id": "fdc8",
+      "name": "Prakash",
+      "location": "Delhi",
+      "phone": "111",
+      "courses": [
+        "Java",
+        "Javascript"
+      ]
+    },
+    {
+      "id": "e1cd",
+      "name": "Prakash",
+      "location": "Delhi",
+      "phone": "111",
+      "courses": [
+        "Java",
+        "Javascript"
+      ]
+    },
+    {
+      "id": "100",
+      "courses": [
+        "a",
+        "b"
+      ],
+      "phone": "12345",
+      "name": "Harsh",
+      "location": "USA"
+    },
+    {
+      "id": "110",
+      "courses": [
+        "a",
+        "b"
+      ],
+      "phone": "0000",
+      "name": "Harsha",
+      "location": "USA"
+    },
+    {
+      "id": "110",
+      "courses": [
+        "a",
+        "b"
+      ],
+      "phone": "0000",
+      "name": "Harsha",
+      "location": "USA"
+    },
+    {
+      "id": "110",
+      "courses": [
+        "a",
+        "b"
+      ],
+      "phone": "0000",
+      "name": "Harsha",
+      "location": "USA"
+    }
+  ]
+}
