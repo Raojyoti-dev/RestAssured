@@ -1,0 +1,157 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "john",
+      "location": "india",
+      "phone": "123456789",
+      "courses": [
+        "java",
+        "selenium"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "jack",
+      "location": "US",
+      "phone": "156789",
+      "courses": [
+        "C#",
+        "Ruby"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "kim",
+      "location": "italy",
+      "phone": "156789",
+      "courses": [
+        "C",
+        "RestApi"
+      ]
+    },
+    {
+      "id": "a1fc",
+      "courses": "course",
+      "phone": "2345",
+      "name": "jyoti",
+      "location": "india"
+    },
+    {
+      "id": "7696",
+      "courses": "course",
+      "phone": "2345",
+      "name": "jyoti",
+      "location": "india"
+    },
+    {
+      "id": "59bd",
+      "courses": "course",
+      "phone": "2345",
+      "name": "jyoti",
+      "location": "india"
+    },
+    {
+      "id": "0cca",
+      "courses": "course",
+      "phone": "2345",
+      "name": "jyoti",
+      "location": "india"
+    },
+    {
+      "id": "bf15",
+      "courses": [
+        "java",
+        "javascript"
+      ],
+      "phone": "2345",
+      "name": "jyoti",
+      "location": "india"
+    },
+    {
+      "id": "935a",
+      "courses": [
+        "java",
+        "javascript"
+      ],
+      "phone": "2345",
+      "name": "jyoti",
+      "location": "india"
+    },
+    {
+      "id": "c6fb",
+      "courses": [
+        "java",
+        "javascript"
+      ],
+      "phone": "2345",
+      "name": "jyoti",
+      "location": "india"
+    },
+    {
+      "id": "40b0",
+      "courses": [
+        "java",
+        "javascript"
+      ],
+      "phone": "2345",
+      "name": "jyoti",
+      "location": "india"
+    },
+    {
+      "id": "db79",
+      "empty": false,
+      "mapType": "java.util.HashMap"
+    },
+    {
+      "id": "52c3",
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "phone": "12345",
+      "name": "Shiva",
+      "location": "USA"
+    },
+    {
+      "id": "be69",
+      "name": "Prakash",
+      "location": "Hyderabad",
+      "phone": "9999",
+      "courses": [
+        "a",
+        "b"
+      ]
+    },
+    {
+      "id": "57f2",
+      "name": "Prakash",
+      "location": "Hyderabad",
+      "phone": "9999",
+      "courses": [
+        "a",
+        "b"
+      ]
+    },
+    {
+      "id": "100",
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "phone": "12345",
+      "name": "Harsh",
+      "location": "USA"
+    },
+    {
+      "id": "100",
+      "courses": [
+        "a",
+        "b"
+      ],
+      "phone": "12345",
+      "name": "Harsh",
+      "location": "USA"
+    }
+  ]
+}
